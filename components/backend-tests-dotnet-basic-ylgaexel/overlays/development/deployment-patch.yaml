@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/backend-tests-dotnet-basic-ylgaexel:github-a7ea95386705eab5103dbeb12f81adeaf333cf1c
+        - image: quay.io/rhtap_qe/backend-tests-dotnet-basic-ylgaexel:github-c5b0b023dc609fd9da283231189ef7e16b6ebde7
           name: container-image
